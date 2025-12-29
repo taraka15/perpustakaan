@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistem-Perpustakaan-Sekolah
 Nama Project ini adalah : CuyPerpus
 
@@ -22,3 +23,7 @@ Fitur fitur yang terdapat didalam aplikasi ini :
 
 
 Created by Mangandaralam Sakti - Student At SMKN 1 Jakarta
+=======
+# perpustakaan
+Aplikasi sistem perpustakaan sekolah berbasis web menggunakan PHP dan MySQL
+>>>>>>> 9f8525bf02fb50334ff8bc8d92d5e0296de06e49
